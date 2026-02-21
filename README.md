@@ -3,6 +3,9 @@
 ## Strategic Context
 This dashboard is an elite RevOps tool designed to bridge the gap between high-level financial metrics and boots-on-the-ground account strategy. Leveraging SQL-powered analytics and a weighted health-scoring algorithm, it provides Enterprise Account Managers and RevOps leaders with a "single pane of glass" view of portfolio health and churn risk.
 
+## Live Demo
+https://revenue-intelligence-dashboard-rami.streamlit.app/
+
 ## Key Features & Business Logic
 * **Weighted Health Scoring Engine:** Calculates account health based on three pillars: Product Engagement (40%), Sentiment/NPS (30%), and Support Volume (30%).
 * **Capital at Risk Treemap:** A horizontal, interactive visualization that groups accounts by "Recommended Playbook," allowing leaders to zoom from global strategy down to individual account details.
